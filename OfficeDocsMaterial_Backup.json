@@ -1,0 +1,146 @@
+[
+  {
+    "category": "OAI",
+    "code": "OAI0484",
+    "name": "Clarithromycin",
+    "qc": "30",
+    "retention": "60",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0646",
+    "name": "Clarithromycin Taste Masked Granules",
+    "qc": "30",
+    "retention": "60",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0431",
+    "name": "Clavulanate Potassium (Micronized Powder)",
+    "qc": "Representative sample",
+    "retention": "Representative sample",
+    "condition": "Room Temp.: NMT 25°C & RH: 35% ± 5%",
+    "remark": "Light sensitive"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0439",
+    "name": "Clavulanate Potassium With Microcrystalline Cellulose PH 102",
+    "qc": "Representative sample",
+    "retention": "Representative sample",
+    "condition": "Room Temp.: NMT 25°C & RH: 35% ± 5%",
+    "remark": "Light sensitive"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0440",
+    "name": "Clavulanate Potassium With Silicon Di Oxide (Syloid) (1:1)",
+    "qc": "Representative sample",
+    "retention": "Representative sample",
+    "condition": "Room Temp.: NMT 25°C & RH: 35% ± 5%",
+    "remark": "Light sensitive"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0765",
+    "name": "Clevidipine",
+    "qc": "30",
+    "retention": "60",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "Light sensitive"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0361",
+    "name": "Clindamycin Hydrochloride",
+    "qc": "30",
+    "retention": "60",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "Light sensitive, microbiology"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0457",
+    "name": "Clindamycin Palmitate Hydrochloride",
+    "qc": "15",
+    "retention": "30",
+    "condition": "Room Temp.: NMT 25°C & RH: 35% ± 5%",
+    "remark": "Light sensitive"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0362",
+    "name": "Clindamycin Phosphate",
+    "qc": "30",
+    "retention": "60",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0044",
+    "name": "Clobazam",
+    "qc": "5",
+    "retention": "10",
+    "condition": "Room Temp.: NMT 25°C & RH: 35% ± 5%",
+    "remark": "Light protected"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0211",
+    "name": "Clobetasol Propionate",
+    "qc": "5",
+    "retention": "10",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0691",
+    "name": "Clobetasone butyrate",
+    "qc": "6",
+    "retention": "12",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "Light sensitive"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0231",
+    "name": "Clonazepam",
+    "qc": "10",
+    "retention": "20",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0221",
+    "name": "Clopidogrel Bisulphate",
+    "qc": "15",
+    "retention": "30",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "N\/A"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0045",
+    "name": "Clotrimazole Micronized",
+    "qc": "20",
+    "retention": "40",
+    "condition": "Room Temp.: NMT 25°C & RH: 35% ± 5%",
+    "remark": "Light protected"
+  },
+  {
+    "category": "OAI",
+    "code": "OAI0703",
+    "name": "CMC Sodium 7M8SF PH (Blanose CMC)",
+    "qc": "15",
+    "retention": "30",
+    "condition": "Room Temp.: NMT 25°C & RH: 60%± 5%",
+    "remark": "Light sensitive"
+  }
+]
